@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagerWithoutFacade", "CreditCardManagerWithoutFacade\LoanManagerWithoutFacade.csproj", "{97EDC307-6F13-4B97-9CBE-F3F59A7A8521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagerWithFacade", "LoanManagerWithFacade\LoanManagerWithFacade.csproj", "{41703827-2C79-4035-8A8A-58F722F062DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8085A8DE-CB83-46F3-ABD5-79E471F96B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EDC307-6F13-4B97-9CBE-F3F59A7A8521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EDC307-6F13-4B97-9CBE-F3F59A7A8521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EDC307-6F13-4B97-9CBE-F3F59A7A8521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EDC307-6F13-4B97-9CBE-F3F59A7A8521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41703827-2C79-4035-8A8A-58F722F062DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41703827-2C79-4035-8A8A-58F722F062DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41703827-2C79-4035-8A8A-58F722F062DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41703827-2C79-4035-8A8A-58F722F062DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8085A8DE-CB83-46F3-ABD5-79E471F96B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8085A8DE-CB83-46F3-ABD5-79E471F96B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8085A8DE-CB83-46F3-ABD5-79E471F96B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8085A8DE-CB83-46F3-ABD5-79E471F96B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

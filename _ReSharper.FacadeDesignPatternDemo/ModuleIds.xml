@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="97EDC307-6F13-4B97-9CBE-F3F59A7A8521" ModuleId="CreditCardManagerWithoutFacade" />
+  <Module PersistentId="41703827-2C79-4035-8A8A-58F722F062DE" ModuleId="LoanManagerWithFacade" />
+  <Module PersistentId="8085A8DE-CB83-46F3-ABD5-79E471F96B8B" ModuleId="Common" />
+</Modules>
